@@ -21,7 +21,6 @@ Publico aquí los códigos en C# del algoritmo desarrollado en Unity por si a al
  <br>
 
  **PUBLICADO BAJO GPL (General Public License)** <br>
- **PULISHED UNDER GPL (General Public License)**
 
 **CUALQUIER RÉPLICA DEL ALGORITMO DEBE ESTAR REFERENCIADA Y ACREDITADA PARA SU USO PERMITIDO** <br>
 **EN CASO DE DUDA CONTACTE CONMIGO**
